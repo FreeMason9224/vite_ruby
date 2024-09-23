@@ -1,3 +1,21 @@
+## [3.8.2](https://github.com/ElMassimo/vite_ruby/compare/vite_ruby@3.8.1...vite_ruby@3.8.2) (2024-09-05)
+
+
+### Bug Fixes
+
+* bump up expected plugin version ([b8dec4f](https://github.com/ElMassimo/vite_ruby/commit/b8dec4f5b516fe2acc63e980b465987c0c2c9c92)), closes [#493](https://github.com/ElMassimo/vite_ruby/issues/493)
+
+
+
+## [3.8.1](https://github.com/ElMassimo/vite_ruby/compare/vite_ruby@3.8.0...vite_ruby@3.8.1) (2024-09-04)
+
+
+### Bug Fixes
+
+* actually run vite inside bun ([#492](https://github.com/ElMassimo/vite_ruby/issues/492)) ([36d3e96](https://github.com/ElMassimo/vite_ruby/commit/36d3e96a6ea9bd9f45881cecb5be78510d6ff017))
+
+
+
 # [3.8.0](https://github.com/ElMassimo/vite_ruby/compare/vite_ruby@3.7.0...vite_ruby@3.8.0) (2024-08-12)
 
 
